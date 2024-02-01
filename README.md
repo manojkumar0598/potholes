@@ -9,3 +9,6 @@ Tech Stack Used:
 2. Frontend - HTML, CSS
 3. Object Detection - Yolo V3 Object Classification Model
 4. Database: SQLITE3
+
+To run,
+Start the flask app and open the Webapp using the defined flask port (Ex: localhost:8888)
